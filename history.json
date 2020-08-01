@@ -2,7 +2,8 @@
   "events": [{
       "title": "prickathon #1",
       "times": 1,
-      "works": [{
+      "works": [
+	{
           "id": 1,
           "name": "iine-chrome",
           "authors": [
@@ -10,7 +11,7 @@
             "@otnk_san"
           ],
           "thumbnailUrl": "/works/iine-chrome/iine-chrome.gif",
-          "description": "Webページにいいね♡が流れるブラウザ拡張",
+          "description": "Webページにいいね?が流れるブラウザ拡張",
           "linkToContent": "https://github.com/entyo/iine-chrome"
         },
         {
@@ -37,7 +38,8 @@
     {
       "title": "prickathon #2",
       "times": 2,
-      "works": [{
+      "works": [
+	{
           "id": 4,
           "name": "priparaDB-firebase",
           "authors": [
@@ -69,7 +71,8 @@
     {
       "title": "prickathon #3",
       "times": 3,
-      "works": [{
+      "works": [
+	{
           "id": 7,
           "name": "priparaDB-firebase",
           "authors": [
@@ -105,14 +108,15 @@
     {
       "title": "prickathon #4",
       "times": 4,
-      "works": [{
+      "works": [
+	{
           "id": 10,
           "name": "PrichanStudio",
           "authors": [
             "@banjun"
           ],
           "thumbnailUrl": "/works/PrichanStudio/PrichanStudio.jpg",
-          "description": "コーデが身体に映しだされるんだ〜の研究",
+          "description": "コーデが身体に映しだされるんだ?の研究",
           "linkToContent": "https://github.com/banjun/PrichanStudio"
         },
         {
@@ -170,7 +174,8 @@
     {
       "title": "prickathon #5",
       "times": 5,
-      "works": [{
+      "works": [
+	{
           "id": 16,
           "name": "プリティーオールフレンズ誕生日カレンダー",
           "authors": [
@@ -242,7 +247,8 @@
     {
       "title": "prickathon #6",
       "times": 6,
-      "works": [{
+      "works": [
+	{
           "id": 23,
           "name": "cherry_picking_moments",
           "authors": [
@@ -284,7 +290,8 @@
     {
       "title": "prickathon #7",
       "times": 7,
-      "works": [{
+      "works": [
+	{
           "id": 27,
           "name": "pretty-series-calendar",
           "authors": [
@@ -358,7 +365,8 @@
     {
       "title": "prickathon #8",
       "times": 8,
-      "works": [{
+      "works": [
+	{
           "id": 34,
           "name": "emoy_webhook",
           "authors": [
@@ -472,7 +480,8 @@
     {
       "title": "prickathon #9",
       "times": 9,
-      "works": [{
+      "works": [
+	{
           "id": 45,
           "name": "pri_screen",
           "authors": [
@@ -497,7 +506,8 @@
     {
       "title": "prickathon online #1",
       "times": 10,
-      "works": [{
+      "works": [
+	{
           "id": 47,
           "name": "コーデ管理アプリ",
           "authors": [
@@ -576,7 +586,8 @@
     {
       "title": "prickathon online #2",
       "times": 11,
-      "works": [{
+      "works": [
+	{
           "id": 55,
           "name": "自作プリモデル+FaceTracking",
           "authors": [
