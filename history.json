@@ -1,10 +1,8 @@
 {
-  "events": [
-    {
+  "events": [{
       "title": "prickathon #1",
       "times": 1,
-      "works": [
-        {
+      "works": [{
           "id": 1,
           "name": "iine-chrome",
           "authors": [
@@ -39,8 +37,7 @@
     {
       "title": "prickathon #2",
       "times": 2,
-      "works": [
-        {
+      "works": [{
           "id": 4,
           "name": "priparaDB-firebase",
           "authors": [
@@ -72,8 +69,7 @@
     {
       "title": "prickathon #3",
       "times": 3,
-      "works": [
-        {
+      "works": [{
           "id": 7,
           "name": "priparaDB-firebase",
           "authors": [
@@ -109,8 +105,7 @@
     {
       "title": "prickathon #4",
       "times": 4,
-      "works": [
-        {
+      "works": [{
           "id": 10,
           "name": "PrichanStudio",
           "authors": [
@@ -175,8 +170,7 @@
     {
       "title": "prickathon #5",
       "times": 5,
-      "works": [
-        {
+      "works": [{
           "id": 16,
           "name": "プリティーオールフレンズ誕生日カレンダー",
           "authors": [
@@ -248,8 +242,7 @@
     {
       "title": "prickathon #6",
       "times": 6,
-      "works": [
-        {
+      "works": [{
           "id": 23,
           "name": "cherry_picking_moments",
           "authors": [
@@ -291,8 +284,7 @@
     {
       "title": "prickathon #7",
       "times": 7,
-      "works": [
-        {
+      "works": [{
           "id": 27,
           "name": "pretty-series-calendar",
           "authors": [
@@ -366,8 +358,7 @@
     {
       "title": "prickathon #8",
       "times": 8,
-      "works": [
-        {
+      "works": [{
           "id": 34,
           "name": "emoy_webhook",
           "authors": [
@@ -417,25 +408,25 @@
           "description": "ARを活用して筐体で便利にあそぶんだもん！",
           "linkToContent": "https://github.com/sergeant118/ARPriItemManager"
         },
-	      {
-	        "id": 39,
-	        "name": "priStamp",
-	        "authors": [
-	          "じゅぎのん"
-	        ],
-	        "thumbnailUrl": "/works/prickathon8/juginon.png",
-	        "description": "プリティーシリーズを見たらスタンプを押してツイートできるぷり！ loginID: prickathon, pass: manakaLaala",
-	        "linkToContent": "https://expo.io/@prickathon/priStamp"
+        {
+          "id": 39,
+          "name": "priStamp",
+          "authors": [
+            "じゅぎのん"
+          ],
+          "thumbnailUrl": "/works/prickathon8/juginon.png",
+          "description": "プリティーシリーズを見たらスタンプを押してツイートできるぷり！ loginID: prickathon, pass: manakaLaala",
+          "linkToContent": "https://expo.io/@prickathon/priStamp"
         },
-	      {
-	        "id": 40,
-	        "name": "プリティーキャプ画像DB",
-	        "authors": [
-	          "やっち"
-	        ],
-	        "thumbnailUrl": "/works/prickathon8/yacchi.png",
-	        "description": "プリティーシリーズのキャプ画像を検索・投稿できるWEBアプリぷり。定期的にTwitterでつぶやきます(@PriImage)",
-	        "linkToContent": "http://pri-image-db.site/"
+        {
+          "id": 40,
+          "name": "プリティーキャプ画像DB",
+          "authors": [
+            "やっち"
+          ],
+          "thumbnailUrl": "/works/prickathon8/yacchi.png",
+          "description": "プリティーシリーズのキャプ画像を検索・投稿できるWEBアプリぷり。定期的にTwitterでつぶやきます(@PriImage)",
+          "linkToContent": "http://pri-image-db.site/"
         },
         {
           "id": 41,
@@ -481,8 +472,7 @@
     {
       "title": "prickathon #9",
       "times": 9,
-      "works": [
-        {
+      "works": [{
           "id": 45,
           "name": "pri_screen",
           "authors": [
@@ -507,8 +497,7 @@
     {
       "title": "prickathon online #1",
       "times": 10,
-      "works": [
-        {
+      "works": [{
           "id": 47,
           "name": "コーデ管理アプリ",
           "authors": [
@@ -587,8 +576,7 @@
     {
       "title": "prickathon online #2",
       "times": 11,
-      "works": [
-        {
+      "works": [{
           "id": 55,
           "name": "自作プリモデル+FaceTracking",
           "authors": [
@@ -605,6 +593,16 @@
           ],
           "thumbnailUrl": "/works/prickathon-online2/takanakahiko.png",
           "description": "めるちゃんを描きました"
+        },
+        {
+          "id": 57,
+          "name": "ARだいあぱんカメラ（仮）",
+          "authors": [
+            "@sergeant118"
+          ],
+          "thumbnailUrl": "/works/prickathon-online2/sergeant118.png",
+          "description": "ARCore DepthAPIとバーチャルだいあぱんモデルで遊びました",
+          "linkToContent": "https://twitter.com/sergeant118/status/1287330946056720385"
         }
       ]
     }
